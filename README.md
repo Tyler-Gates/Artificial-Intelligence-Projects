@@ -4,7 +4,7 @@ CS 4346 AI (Texas State University)
 **Project 1:** College Career Advisor (Taught GUI creation in C++ and Backward/Forward chaining principles)
 
 **Summary:** A group project of three members. Inside folder has Report detailing the project, as well as an executable that 
-will run on windows. The program implements forward and backward chaining inside a Windows GUI program. In order to properly run the code, link wxWidgets library to project. ***MORE IN REPORT INSIDE FOLDER***
+will run on windows. The program implements forward and backward chaining inside a Windows GUI program. The user navigates a series of questions to arrive at a conclusion of career path. In order to properly run the code, link wxWidgets library to project. ***MORE IN REPORT INSIDE FOLDER***
 
 **Project 2:** A star algorithm and the 8 tile puzzle (Taught A star and heurstic functions)
 
