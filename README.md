@@ -1,11 +1,11 @@
 # Artificial-Intelligence-Projects
 CS 4346 AI (Texas State University)
 
-**Project 1:** Backward and Forward Chaining
+**Project 1:** College Career Advisor (Taught GUI creation in C++ and Backward/Forward chaining principles)
 
 **Summary:** A group project of three members. 
 
-**Project 2:** A star algorithm and the 8 tile puzzle
+**Project 2:** A star algorithm and the 8 tile puzzle (Taught A star and heurstic functions)
 
 **Summary:** A group project of three members. First created the node structure that swaps the blank tile with other tiles through
 a linked list. Starts with two different initial states, and runs Astar to  reach the goal state through five different heuristic 
